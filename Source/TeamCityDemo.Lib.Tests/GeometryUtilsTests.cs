@@ -16,7 +16,7 @@ namespace TeamCityDemo.Lib.Tests
             decimal result = utils.GetSquareArea(5);
 
             //assert
-            Assert.AreEqual(25, result);
+            Assert.AreEqual(40, result);
         }
 
         [Test]

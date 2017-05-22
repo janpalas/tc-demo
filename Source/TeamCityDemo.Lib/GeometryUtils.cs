@@ -6,6 +6,7 @@ namespace TeamCityDemo.Lib
     {
         public decimal GetCircleArea(decimal radius)
         {
+            ddddd
             return Math.Round(radius * radius * (decimal) Math.PI, 2);
         }
 
